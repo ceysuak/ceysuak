@@ -23,17 +23,7 @@ Currently focusing on full-stack development, algorithms, and improving my probl
 
 ---
 
-## 📊 GitHub Analytics
 
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ceysuak&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceysuak&layout=compact&theme=tokyonight" />
-</p>
----
 
 ## 🚀 Goals for 2025-2026
 - Build real-world full-stack projects  
