@@ -19,7 +19,7 @@ Currently focusing on full-stack development, algorithms, and improving my probl
 ## 📚 Currently Learning
 - Full-Stack Development  
 - Data Structures & Algorithms (NeetCode)  
-- Italian 🇮🇹
+
 
 ---
 
