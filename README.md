@@ -25,7 +25,7 @@ Currently focusing on full-stack development, algorithms, and improving my probl
 
 
 
-## 🚀 Goals for 2025-2026
+## 🚀 Goals for 2026
 - Build real-world full-stack projects  
 - Improve DSA knowledge  
 - Strengthen backend development skills  
