@@ -2,6 +2,7 @@
 IT Student • Aspiring Full-Stack Developer • Passionate Learner
 
 I'm an IT student working on becoming a full-stack developer.  
+Currently doing my internship at Asbank LTD. as an UI/UX designer intern.
 I enjoy building clean, functional web applications and improving my skills through consistent learning.  
 Currently focusing on full-stack development, algorithms, and improving my problem-solving abilities.
 
