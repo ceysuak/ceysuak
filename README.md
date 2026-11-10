@@ -65,7 +65,7 @@ A selection of projects I'm working on and experimenting with.
 | **IGLOOO** | A mobile application built with React Native. | React Native · TypeScript · Expo |
 | **AURA CAFE** | A UI/UX concept and prototype. | Figma |
 
-> Replace these examples with your actual projects and repository links as you publish them.
+
 
 [Explore my repositories →](https://github.com/ceysuak?tab=repositories)
 
