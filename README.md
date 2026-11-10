@@ -79,15 +79,16 @@ I enjoy working on the visual side of development, from interface layouts to pro
 
 ---
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ceysuak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ceysuak&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceysuak&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceysuak&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://streak-stats.demolab.com?user=ceysuak&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="60%" src="https://streak-stats.demolab.com?user=ceysuak&theme=tokyonight&hide_border=true" />
 
 </div>
 
