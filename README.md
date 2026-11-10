@@ -74,17 +74,18 @@ A UI/UX design concept focused on visual identity and user experience.
 
 ---
 
+
 ## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ceysuak&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ceysuak&theme=tokyonight" width="100%" alt="GitHub profile summary" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceysuak&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages" />
+<br/>
 
-<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ceysuak&theme=tokyonight" width="49%" alt="Languages per repository" />
 
-<img src="https://streak-stats.demolab.com?user=ceysuak&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ceysuak&theme=tokyonight" width="49%" alt="GitHub statistics" />
 
 </div>
 
